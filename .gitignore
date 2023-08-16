@@ -22,3 +22,10 @@
 /front/yarn-debug.log*
 /front/yarn-error.log*
 /back/.venv
+auto_image_tags.code-workspace
+back/app/__pycache__/__init__.cpython-311.pyc
+.vscode/settings.json
+back/app/__pycache__/main.cpython-311.pyc
+back/app/ml_model/__pycache__/__init__.cpython-311.pyc
+back/app/ml_model/yolov3.weights
+back/app/ml_model/__pycache__/yolo3.cpython-311.pyc
